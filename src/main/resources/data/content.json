@@ -1,0 +1,62 @@
+[
+  {
+    "Id": null,
+    "title": "Spring test Berk Ekim 1",
+    "DESCRIPTION": "In this tutorial you will learn how to use one of the new features in Jakarta EE 10 in a Spring Boot 3 application.",
+    "status": "PUBLISHED",
+    "contentType": "ARTICLE",
+    "dateCreated": "2023-01-27T00:00:00.000000",
+    "dateUpdated": null,
+    "url": "https://www.danvega.dev/blog/2023/01/27/jakarta-ee-10-uuid/"
+  },
+  {
+    "Id": null,
+    "title": "Spring test Berk Ekim 2",
+    "DESCRIPTION": "In this tutorial, you will learn how to secure REST APIs with Spring Security and Json Web Tokens.",
+    "status": "PUBLISHED",
+    "contentType": "ARTICLE",
+    "dateCreated": "2022-09-06T00:00:00.000000",
+    "dateUpdated": null,
+    "url": "https://www.danvega.dev/blog/2022/09/06/spring-security-jwt/"
+  },
+  {
+    "Id": null,
+    "title": "Spring test Berk Ekim 3",
+    "DESCRIPTION": "In this tutorial you are going to learn how to get up and running with Spring for GraphQL.",
+    "status": "PUBLISHED",
+    "contentType": "ARTICLE",
+    "dateCreated": "2022-05-17T00:00:00.000000",
+    "dateUpdated": null,
+    "url": "https://www.danvega.dev/blog/2022/05/17/spring-for-graphql/"
+  },
+  {
+    "Id": null,
+    "title": "Spring test Berk Ekim 4",
+    "DESCRIPTION": "In this video, we'll investigate whether it is possible to use Chat GPT to write a Spring Boot application.",
+    "status": "PUBLISHED",
+    "contentType": "VIDEO",
+    "dateCreated": "2023-02-14T00:00:00.000000",
+    "dateUpdated": null,
+    "url": "https://youtu.be/CXbXoMIVpRg"
+  },
+  {
+    "Id": null,
+    "title": "Spring test Berk Ekim 5",
+    "DESCRIPTION": "In this tutorial, we will explore the exciting and powerful process of creating native executables in Java using GraalVM.",
+    "status": "PUBLISHED",
+    "contentType": "VIDEO",
+    "dateCreated": "2023-02-03T00:00:00.000000",
+    "dateUpdated": null,
+    "url": "https://youtu.be/Rk4zfvVvRks"
+  },
+  {
+    "Id": null,
+    "title": "Spring test Berk Ekim 6",
+    "DESCRIPTION": "In this video, I am going to walk you through my IntelliJ IDEA Setup for 2023. \n",
+    "status": "PUBLISHED",
+    "contentType": "VIDEO",
+    "dateCreated": "2023-02-01T00:00:00.000000",
+    "dateUpdated": null,
+    "url": "https://youtu.be/g78is10FjF0"
+  }
+]
