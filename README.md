@@ -58,6 +58,25 @@ docker build -t content-calendar .
 * Uygulama, http://localhost:8080 adresinden erişilebilir. 
 
 
+## Pictures
+
+### **PostgreSQL kullanımı ve web sitesi bağlantısı**
+![](pictures/railwaypostgresql.PNG)
+### **H2 Database Kullanımı**
+![](pictures/jsonFormatData.PNG)
+### **Docker Kullanımı**
+![](pictures/docker.PNG)
+### **GET isteği kullanımı**
+![](pictures/content.PNG)
+### **Filtreleme**
+![](pictures/filter.PNG)
+### **localhost:8080 anasayfa görüntüsü**
+![](pictures/railway.PNG)
+
+## İletişim
+* berkekimdev@gmail.com
+
+
 
 
 
