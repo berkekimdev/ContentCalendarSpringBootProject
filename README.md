@@ -5,7 +5,9 @@
 * Kullanıcılar, tarihe göre filtreleme yapabilirler.  
 * Kullanıcılar, içerikleri aramak için arama kutusunu kullanabilirler.  
 * CRUD işlemleri (oluşturma, okuma, güncelleme ve silme) için Restful API'ler sağlanmaktadır.  
-* Railway ile birlikte oluşturduğum siteyle web üzerinden testler yapılabilir.
+* Railway ile birlikte oluşturduğum siteyle web üzerinden testler yapılabilir :  
+* Burdan test yapabilirsiniz https://contentcalendarspringbootproject-production.up.railway.app/api/content 
+
 ## TEKNOLOJİLER
 ![Spring Boot 3.0.4](https://img.shields.io/badge/Spring%20Boot-3.0.4-green.svg?style=flat-square&logo=springboot)
 
@@ -30,6 +32,7 @@ Geliştirme aşamasında kolay test edilebilirlik için H2 veritabanı kullanım
 Docker kullanımı sayesinde uygulamanın taşınabilirliği  
 Railway.com'da canlandırılarak sunulan API  
 
+
 ### Proje, bir CRUD (Create, Read, Update, Delete) sistemi olarak tasarlanmıştır ve aşağıdaki operasyonlar mevcuttur:
 
 POST: Yeni bir aktivite ekleme /api/content  
@@ -53,6 +56,8 @@ docker build -t content-calendar .
 * Docker container'ı başlatın:
 "docker run -p 8081:8080 content-calendar"
 * Uygulama, http://localhost:8080 adresinden erişilebilir. 
+
+
 
 
 
